@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+}
+
+.col-md-7{
+    margin-top: 120px !important;
+    background-color: rgb(191, 236, 205);
+    padding: 20px;
+}
+
+h1{
+    background-color:red;
+}
+
+input,label{
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
